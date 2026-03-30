@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://pkg.go.dev/github.com/aethelred/aethelred-sdk-go"><img src="https://pkg.go.dev/badge/github.com/aethelred/aethelred-sdk-go.svg" alt="Go Reference"></a>
-  <a href="https://github.com/aethelred/aethelred-sdk-go/actions"><img src="https://img.shields.io/github/actions/workflow/status/aethelred/aethelred-sdk-go/go-sdk-ci.yml?style=flat-square&label=CI" alt="CI"></a>
+  <a href="https://pkg.go.dev/github.com/aethelred-foundation/aethelred-sdk-go"><img src="https://pkg.go.dev/badge/github.com/aethelred-foundation/aethelred-sdk-go.svg" alt="Go Reference"></a>
+  <a href="https://github.com/aethelred-foundation/aethelred-sdk-go/actions"><img src="https://img.shields.io/github/actions/workflow/status/aethelred/aethelred-sdk-go/go-sdk-ci.yml?style=flat-square&label=CI" alt="CI"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-Apache--2.0-blue?style=flat-square" alt="License"></a>
   <img src="https://img.shields.io/badge/go-1.22+-00ADD8?style=flat-square&logo=go" alt="Go version">
 </p>
@@ -16,7 +16,7 @@
 ## Install
 
 ```bash
-go get github.com/aethelred/aethelred-sdk-go
+go get github.com/aethelred-foundation/aethelred-sdk-go
 ```
 
 ## Quick Start
@@ -29,7 +29,7 @@ import (
     "fmt"
     "log"
 
-    aethelred "github.com/aethelred/aethelred-sdk-go"
+    aethelred "github.com/aethelred-foundation/aethelred-sdk-go"
 )
 
 func main() {
@@ -71,7 +71,7 @@ func main() {
 }
 ```
 
-Full API docs: [pkg.go.dev/github.com/aethelred/aethelred-sdk-go](https://pkg.go.dev/github.com/aethelred/aethelred-sdk-go)
+Full API docs: [pkg.go.dev/github.com/aethelred-foundation/aethelred-sdk-go](https://pkg.go.dev/github.com/aethelred-foundation/aethelred-sdk-go)
 
 ---
 
