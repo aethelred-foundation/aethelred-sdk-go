@@ -5,9 +5,15 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/aethelred-foundation/aethelred-sdk-go/actions/workflows/repo-security-baseline.yml"><img src="https://img.shields.io/github/actions/workflow/status/aethelred-foundation/aethelred-sdk-go/repo-security-baseline.yml?branch=main&style=flat-square&label=Security" alt="Security"></a>
+  <a href="https://github.com/aethelred-foundation/aethelred-sdk-go/actions/workflows/docs-hygiene.yml"><img src="https://img.shields.io/github/actions/workflow/status/aethelred-foundation/aethelred-sdk-go/docs-hygiene.yml?branch=main&style=flat-square&label=Docs+Hygiene" alt="Docs Hygiene"></a>
   <a href="https://pkg.go.dev/github.com/aethelred-foundation/aethelred-sdk-go"><img src="https://pkg.go.dev/badge/github.com/aethelred-foundation/aethelred-sdk-go.svg" alt="Go Reference"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-Apache--2.0-blue?style=flat-square" alt="License"></a>
-  <img src="https://img.shields.io/badge/go-1.22+-00ADD8?style=flat-square&logo=go" alt="Go version">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Go-1.22+-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
+  <img src="https://img.shields.io/badge/Cosmos_SDK-v0.50-2E3148?style=flat-square" alt="Cosmos SDK">
+  <a href="https://docs.aethelred.io/sdk"><img src="https://img.shields.io/badge/docs-SDK-orange?style=flat-square" alt="Docs"></a>
 </p>
 
 ---
